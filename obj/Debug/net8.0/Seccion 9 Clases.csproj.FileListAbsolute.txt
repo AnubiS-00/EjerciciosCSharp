@@ -1,0 +1,14 @@
+C:\Users\Mario\Desktop\Cursos Udemy\Curso C#\Ejercicios Curso C#\Seccion 9 Clases\bin\Debug\net8.0\Seccion 9 Clases.exe
+C:\Users\Mario\Desktop\Cursos Udemy\Curso C#\Ejercicios Curso C#\Seccion 9 Clases\bin\Debug\net8.0\Seccion 9 Clases.deps.json
+C:\Users\Mario\Desktop\Cursos Udemy\Curso C#\Ejercicios Curso C#\Seccion 9 Clases\bin\Debug\net8.0\Seccion 9 Clases.runtimeconfig.json
+C:\Users\Mario\Desktop\Cursos Udemy\Curso C#\Ejercicios Curso C#\Seccion 9 Clases\bin\Debug\net8.0\Seccion 9 Clases.dll
+C:\Users\Mario\Desktop\Cursos Udemy\Curso C#\Ejercicios Curso C#\Seccion 9 Clases\bin\Debug\net8.0\Seccion 9 Clases.pdb
+C:\Users\Mario\Desktop\Cursos Udemy\Curso C#\Ejercicios Curso C#\Seccion 9 Clases\obj\Debug\net8.0\Seccion 9 Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Desktop\Cursos Udemy\Curso C#\Ejercicios Curso C#\Seccion 9 Clases\obj\Debug\net8.0\Seccion 9 Clases.AssemblyInfoInputs.cache
+C:\Users\Mario\Desktop\Cursos Udemy\Curso C#\Ejercicios Curso C#\Seccion 9 Clases\obj\Debug\net8.0\Seccion 9 Clases.AssemblyInfo.cs
+C:\Users\Mario\Desktop\Cursos Udemy\Curso C#\Ejercicios Curso C#\Seccion 9 Clases\obj\Debug\net8.0\Seccion 9 Clases.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Cursos Udemy\Curso C#\Ejercicios Curso C#\Seccion 9 Clases\obj\Debug\net8.0\Seccion 9 Clases.dll
+C:\Users\Mario\Desktop\Cursos Udemy\Curso C#\Ejercicios Curso C#\Seccion 9 Clases\obj\Debug\net8.0\refint\Seccion 9 Clases.dll
+C:\Users\Mario\Desktop\Cursos Udemy\Curso C#\Ejercicios Curso C#\Seccion 9 Clases\obj\Debug\net8.0\Seccion 9 Clases.pdb
+C:\Users\Mario\Desktop\Cursos Udemy\Curso C#\Ejercicios Curso C#\Seccion 9 Clases\obj\Debug\net8.0\Seccion 9 Clases.genruntimeconfig.cache
+C:\Users\Mario\Desktop\Cursos Udemy\Curso C#\Ejercicios Curso C#\Seccion 9 Clases\obj\Debug\net8.0\ref\Seccion 9 Clases.dll
